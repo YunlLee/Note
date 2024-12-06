@@ -164,6 +164,6 @@ long Q(){
 
 ![](./Assets/img/csapp/nested_arrays02.png)
 
-$$T \hspace{3mm} D[R][C]$$
+
 
 
