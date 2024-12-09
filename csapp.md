@@ -163,7 +163,3 @@ long Q(){
 二维数组地址的计算方式：
 
 ![](./Assets/img/csapp/nested_arrays02.png)
-
-
-
-
