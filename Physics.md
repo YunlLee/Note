@@ -1,6 +1,6 @@
 # Part 1 Kinematics
 
-## 1-1. SI units
+## 1-1 SI units
 
 | Basic quantity     | Unit name | Unit symbol |
 |:------------------ | --------- |:----------- |
@@ -94,6 +94,32 @@ $$
 | $10^9$    | giga-  | G      | $10^{-9}$  | nano-  | n      |
 | $10^{12}$ | tera-  | T      | $10^{-12}$ | pico-  | p      |
 
+## 1-2 speed and velocity, distance and displacement
 
+**Distance**: This refers to the total length of the path traveled by an object, regardless of the direction. It is a scalar quantity, which means it only has magnitude and no direction.
 
+**Displacement**: This is the shortest straight-line distance from the initial position to the final position of an object, along with the direction of that line. Displacement is a vector quantity, meaning it has both magnitude and direction.
 
+**Speed**: This is a scalar quantity that refers to the distance traveled by an object per unit of time. It only considers how fast an object is moving, without regard to the direction of motion. $speed = distance / time$
+
+**Velocity**: This is a vector quantity that includes both the magnitude(speed) and the direction of motion.  $velocity = \frac{charge\:in\:displacement}{time\:taken}$
+
+## 1-3 Graphical Works
+
+Displacement - time graphs
+
+![](./Assets/img/Physics/displacement.png)
+
+Velocity - time Graphs
+
+![](./Assets/img/Physics/velocity_graphical.png)
+
+Deducing velocity from displacement - time graphs
+
+![](./Assets/img/Physics/constant_velocity.png)
+
+## 1-4 Combining and substracting vectors
+
+![](./Assets/img/Physics/combining_vectors.png)
+
+![](./Assets/img/Physics/substracting_Vectors.png)
