@@ -29,3 +29,17 @@
 <img align="right" width="350" src="./Assets/img/digital_painting/projection.png">
 通过右边的图片你会发现，除了和你平行的面之外，其它的所有的边都消失在地平线上。是相对比较简单自然的透视。
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+2. 一点透视案例
+
+![](./Assets/img/digital_painting/1D_projection.png)
