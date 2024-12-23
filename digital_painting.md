@@ -43,3 +43,5 @@
 2. 一点透视案例
 
 ![](./Assets/img/digital_painting/1D_projection.png)
+
+3. 一点透视的画法
