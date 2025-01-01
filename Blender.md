@@ -39,6 +39,7 @@
 | ctrl + i         | 反选                                                          |
 | alt + m          | 拆分：mesh->split                                              |
 | alt + n          | 反转法线                                                        |
+| alt + s          | 编辑模式下，延法线缩放                                                       |
 
 Mesh、Curve 之间的转换：MR -> Convert To -> mesh/Curve
 
@@ -89,3 +90,33 @@ HDR/贴图：Bridge、PolyHaven、textures.com
 常用软件下载地址：羽兔网
 
 AE插件下载地址：Look AE
+
+# 样条曲线
+ 1. 建模
+    
+    挤出、倒角
+
+ 2. 动画
+    
+    动画轨迹
+
+ 3. 修改与编辑
+
+    手绘
+
+    钢笔 ML 额外加点    ctrl + ML 原有曲线上加点
+
+    挤出 e
+
+    缩放 alt + S
+
+    切变
+
+    随机
+
+ 4. 曲线顶点类型
+
+    编辑模式下：
+    Control points -> set handle type (快捷键：v)
+
+

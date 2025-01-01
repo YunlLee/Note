@@ -41,7 +41,38 @@
 <br/>
 
 2. 一点透视案例
-
 ![](./Assets/img/digital_painting/1D_projection.png)
 
 3. 一点透视的画法
+![](./Assets/img/digital_painting/1D_projection01.png)
+地平线上的可以看到底部，经过地平线的方块只有两个面，经过地平线底部的面可以看到顶部。
+
+# 两点透视
+1. 两点透视的含义
+
+两点透视也叫成角透视，就是任何一面都不与视线平行的物体透视。这种透视能使构图有变化。
+
+<img align="right" width="350" src="./Assets/img/digital_painting/2Point_projection.png">
+通过右边的图可以发现没有与你平行的面并且有两个消失点，两点透视也是比较常见的透视。
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+2. 案例
+![](./Assets/img/digital_painting/2Pont_projection.png)
+
+# 3.点透视
+1. 含义
+三点透视也叫倾斜透视，立方体相对于画面，其面及线都不平行，边可以延伸为三个消失点，一般俯视或仰视去看事物就会形成三点透视。
+![](./Assets/img/digital_painting/3Point_perspective.png)
+
+2. 案例
+![](./Assets/img/digital_painting/3Point_Perspective01.png)
+

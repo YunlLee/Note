@@ -123,3 +123,51 @@ Deducing velocity from displacement - time graphs
 ![](./Assets/img/Physics/combining_vectors.png)
 
 ![](./Assets/img/Physics/substracting_Vectors.png)
+
+## 1-5 Acceleration
+
+Defining acceleration: The rate of change of velocity. 
+$$ a = \frac{\Delta v}{\Delta t} $$
+$$\frac{m \cdot s^{-1}}{s} = m \cdot s^{-2}$$
+
+Usually:
+
+&ensp; u: initial velocity
+
+&ensp; v: final velocity
+
+![](./Assets/img/Physics/acceleration.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
