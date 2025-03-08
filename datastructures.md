@@ -702,5 +702,3 @@ void level_order(BiTree T){
     }
 }
 ```
-
-## 6.5 线索二叉树

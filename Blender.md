@@ -22,7 +22,7 @@
 | alt+z            | 进入透选（toggle x-ray）模式(由于alt + z与nvidia按键冲突，改为ctrl + alt + z) |
 | o                | 衰减编辑                                                        |
 | ctrl + a         | application                                                 |
-| g+g              | 滑动顶点                                                        |
+| g+g              | 延边移动顶点                                                    |
 | ctrl + tab       | 模式选择                                                        |
 | ctrl + x         | 删除连线（融并命令）                                                  |
 | p                | 分离模型                                                        |
@@ -38,8 +38,11 @@
 | F9               | 调整物体参数（在下一个操作之前有效）                                          |
 | ctrl + i         | 反选                                                          |
 | alt + m          | 拆分：mesh->split                                              |
-| alt + n          | 反转法线                                                        |
+| alt + n          | 法线操作                                                        |
 | alt + s          | 编辑模式下，延法线缩放                                                       |
+| k                | 使用 knife 工具时，按住 c 实现透切，可以穿过整个对象。 |
+|编辑模式 L         | 按下 L 键后，Blender 会自动选择与当前选定元素相连的所有元素|
+|编辑模式 shift/alt + h| 隐藏/显示 未选中的顶点或面|
 
 Mesh、Curve 之间的转换：MR -> Convert To -> mesh/Curve
 
@@ -91,6 +94,9 @@ HDR/贴图：Bridge、PolyHaven、textures.com
 
 AE插件下载地址：Look AE
 
+曲线插件：extra curve objects
+
+
 # 样条曲线
  1. 建模
     
@@ -118,5 +124,15 @@ AE插件下载地址：Look AE
 
     编辑模式下：
     Control points -> set handle type (快捷键：v)
+    shift + n 曲线平滑
 
 
+#  粒子系统
+粒子系统
+粒子毛发
+
+
+# 渲染
+Cycles 渲染器，速度慢，效果真实
+
+Eevee 速度快，真实性欠佳

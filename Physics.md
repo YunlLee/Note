@@ -138,8 +138,23 @@ Usually:
 
 ![](./Assets/img/Physics/acceleration.png)
 
+## 1-6 Kinematics equations
 
+**Newton's first law of motion**
+>Every object will remain at rest or in uniform motion in a straight line unless compelled to change its state by the action of an external resultant force.
 
+**Newton's second law of motion**
+>How much an object's motion will be changed by a resultant force.
+
+**Newton's third law of motion**
+>For every action(force) in nature there is an equal and opposite reaction.
+
+### worked example -- resolving vectors
+![](./Assets/img/Physics/resolving_vectors.png)
+
+### Kinematics equations
+S(displacement), t(time), u(initial velocity), v(final velocity), a(acceleration)
+![](./Assets/img/Physics/kinematics_equations.png)
 
 
 
